@@ -5,6 +5,9 @@ what action to take and turns to an appropriate page of the story based on their
 choice.  It is collaborative because it is written one small piece at a time by
 many authors.  To start reading the story, click [here](language.md).
 
+Just trying to make a change
+you know
+
 ## Format of the Story
 
 Each "page" of this story is a separate file.  The files are Markdown, which
